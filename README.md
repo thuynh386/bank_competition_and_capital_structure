@@ -7,3 +7,7 @@ Data:
 - Firm-level data from European countries
 - Indutry-level data for banking industry in corresponding countries
 - Data are extracted from Amadeus database
+
+Techniques:
+- Instrumental variables
+- Hausman test and Sargan test to validate the instruments used.
